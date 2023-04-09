@@ -2,21 +2,12 @@
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 
+![Screen Shot 2023-04-09 at 5 48 43 PM](https://user-images.githubusercontent.com/126643073/230798601-e4e35371-1219-4995-a09e-d1cb8ea6af14.png)
+
 ### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
 ```
 I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
+I feel good about my code: 5
+Thank you to Ellie for the guidance around conceptualizing this idea, and connecting the code. 
 ```
