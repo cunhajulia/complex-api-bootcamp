@@ -4,8 +4,6 @@
 
 ![Screen Shot 2023-04-09 at 5 48 43 PM](https://user-images.githubusercontent.com/126643073/230798601-e4e35371-1219-4995-a09e-d1cb8ea6af14.png)
 
-### How to submit your code for review:
-
 ```
 I completed the challenge: 5
 I feel good about my code: 5
